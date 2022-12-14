@@ -15,7 +15,8 @@ markdown2
 multicolorcaptcha
 pillow>=4.2.0
 psutil
-psycopg2-binary
+psycopg2-binary 
+pyrogram==2.0.70
 pyYAML>=5.1.2
 pyrate-limiter
 python-telegram-bot==13.11
@@ -23,7 +24,7 @@ requests
 spamwatch
 speedtest-cli
 sqlalchemy==1.4.11
-telethon==1.16.4
+telethon==1.26.0
 ujson
 pycryptodome
 base58
